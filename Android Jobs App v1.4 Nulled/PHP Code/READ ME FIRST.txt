@@ -1,0 +1,38 @@
+﻿OLD BUYERS DON'T NEED TO DO ANYTHING WITH PHP CODE.
+
+Thank you for purchase the Android Jobs App.
+
+NEW BUYERS CODE: FOR FIRST TIME BUYER
+NEW BUYERS DON'T NEED TO DO ANYTHING WITH UPDATE FOLDER.
+
+If you want to update your old Android Jobs App panel you have to follow this steps.
+
+Note: This update is only for users of previous version 27 January 2023
+
+**** It is always best to always take a backup before updating. ****
+ 
+Step 1
+Extract the files from the UPDATE archive you have downloaded from CodeCanyon.
+
+Step 2
+Upload all files and folder from update_files folder to the directory where you installed Android Jobs App on your server.
+Make sure you �overwrite� the existing files with the same name. Your FTP software might prompt for this choice.
+ 
+That's it.
+
+Thank you for purchase the Android Jobs App.
+
+Still if you have any questions you can contact us via Skype, Email or WhatsApp.
+
+Skype: support.viaviweb OR viaviwebtech
+
+Email: info@viaviweb.com OR viaviwebtech@gmail.com
+
+WhatsApp: +919227777522
+
+Working Days: Monday to Friday
+
+Business Hours: 10:00 AM to 6:00 PM - Time Zone: GMT +5:30
+
+We may not respond to comments or provide support during holidays and weekend (Saturday-Sunday). 
+ 
